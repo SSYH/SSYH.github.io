@@ -32,7 +32,7 @@ TODO: Update this
 
 ### Contact me
 
-| Contact: | Email |
-|---:|:---:|
-| Personal: | [S@mHahn.com](mailto:S@mHahn.com) |
-|    Work: | [SHahn@eGain.com](mailto:SHahn@eGain.com) |
+| Contact: | | Email |
+|---:|:---:|:---|
+| Personal: | | [S@mHahn.com](mailto:S@mHahn.com) |
+|    Work: | | [SHahn@eGain.com](mailto:SHahn@eGain.com) |
