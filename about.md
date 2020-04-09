@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
+### Responsibilities
+TODO: Update with links to additional information & detail
 * Technology Evangelist at [eGain](http://egain.com)
 * Member, Global Challenges Collaboration
+* Moderator, Barn Raising Saturdays (GCC)
 * Founding and amateur collaborologist
 * Managing partner at Program For The Future
 * Douglas Carl Engelbart disciple-wannabe
@@ -21,9 +24,9 @@ permalink: /about/
 * Violinist (Albuquerque Youth Symphony, Seattle Youth Symphony, Stanford University Symphony Orchestra)
 * Guest Conductor and Chamber Music Coach - Whitson Chamber Music Workshop (San Luis Obispo)
 
-### More Information
+### Curriculum Vitae
 
-A place to include any other types of information that you'd like to include about yourself.
+* TODO: Update this
 
 ### Contact me
 
