@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-### Responsibilities
+## Responsibilities
 TODO: Update with links to additional information & detail
 * Technology Evangelist at [eGain](http://egain.com)
-* Member, Global Challenges Collaboration
+* Member, [Global Challenges Collaboration](https://www.facebook.com/groups/GlobalChallengesCollaboration/)
 * Moderator, Barn Raising Saturdays (GCC)
 * Founding and amateur collaborologist
 * Managing partner at Program For The Future
@@ -24,13 +24,13 @@ TODO: Update with links to additional information & detail
 * Violinist (Albuquerque Youth Symphony, Seattle Youth Symphony, Stanford University Symphony Orchestra)
 * Guest Conductor and Chamber Music Coach - Whitson Chamber Music Workshop (San Luis Obispo)
 
-### Curriculum Vitae
+## Curriculum Vitae
 
 TODO: Update this
 * 20200409 Forrester Webinar: CoVid-19 and Contact Center Engagement
 
 
-### Contact me
+## Contact me
 
 | Contact: | | Email |
 |---:|:---:|:---|
