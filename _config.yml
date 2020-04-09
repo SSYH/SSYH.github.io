@@ -20,7 +20,7 @@ footer-links:
   dribbble:
   email: S@mHahn.com
   facebook: Angelpreneur
-  flickr: SSYHahn
+  flickr: # check my ID
   github: SSYH
   instagram: SSYHahn
   linkedin: Angelpreneur
@@ -29,7 +29,7 @@ footer-links:
   twitter: SamHahn
   stackoverflow: users/13036966/sam-hahn 
   youtube: user/SSYHahn
-  googleplus: SSYHahn
+  googleplus: # not used any more
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts

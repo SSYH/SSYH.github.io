@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Responsibilities
+## Roles and Positions
 TODO: Update with links to additional information & detail
 * Technology Evangelist at [eGain](http://egain.com)
 * Member, [Global Challenges Collaboration](https://www.facebook.com/groups/GlobalChallengesCollaboration/)
@@ -29,10 +29,19 @@ TODO: Update with links to additional information & detail
 TODO: Update this
 * 20200409 Forrester Webinar: CoVid-19 and Contact Center Engagement
 
+## Patents
+
+TODO: Include links to USPTO here
+
+* Cobrowse
+* Document Recognition and Handling
+* Electronic File Cabinet
+
 
 ## Contact me
 
 | Contact: | | Email |
 |---:|:---:|:---|
 | Personal: | | [S@mHahn.com](mailto:S@mHahn.com) |
-|    Work: | | [SHahn@eGain.com](mailto:SHahn@eGain.com) |
+|     Work: | | [SHahn@eGain.com](mailto:SHahn@eGain.com) |
+|     PFTF: | | [Sam@ProgramForTheFuture.com](mailto:Sam@ProgramForTheFuture.com)
