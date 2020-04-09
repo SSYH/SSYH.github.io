@@ -26,8 +26,13 @@ TODO: Update with links to additional information & detail
 
 ### Curriculum Vitae
 
-* TODO: Update this
+TODO: Update this
+* 20200409 Forrester Webinar: CoVid-19 and Contact Center Engagement
+
 
 ### Contact me
 
-[S@mHahn.com](mailto:S@mHahn.com)
+| Contact: | Email |
+|---:|:---:|
+| Personal: | [S@mHahn.com](mailto:S@mHahn.com) |
+|    Work: | [SHahn@eGain.com](mailto:SHahn@eGain.com) |
