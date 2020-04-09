@@ -18,23 +18,23 @@ avatar: https://avatars1.githubusercontent.com/u/312236?s=400&u=01aaa1431ac18f52
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: S at m Hahn dot com
+  email: S@mHahn.com
   facebook: Angelpreneur
-  flickr:
+  flickr: SSYHahn
   github: SSYH
-  instagram:
+  instagram: SSYHahn
   linkedin: Angelpreneur
-  pinterest:
-  rss: # just type anything here for a working RSS icon
+  pinterest: SSYHahn
+  rss: just type anything here for a working RSS icon
   twitter: SamHahn
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/13036966/sam-hahn 
   youtube: user/SSYHahn
   googleplus: SSYHahn
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: SamHahn
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
