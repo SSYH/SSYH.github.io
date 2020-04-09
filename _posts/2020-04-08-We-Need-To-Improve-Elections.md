@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20200408 We Need to Improve Elections
+title: We Need to Improve Elections
 ---
 
 Can we build a TRANSPARENT voting infrastructure that's blockchain-based, incorruptible, by October?
@@ -13,4 +13,4 @@ Who wants to work on this with me?
 
 Let's create the "Linux" of voting systems.
 
-First [posted on Facebook 20200409 late evening](https://www.facebook.com/Angelpreneur/posts/3515267118490376)
+First [posted on Facebook 20200408 late evening](https://www.facebook.com/Angelpreneur/posts/3515267118490376)
