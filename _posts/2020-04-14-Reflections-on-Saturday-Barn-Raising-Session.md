@@ -3,14 +3,17 @@ layout: post
 title: Reflections on Saturday's Barn Raising Session
 ---
 
-Saturday's GCC Barn Raising session saw a number of people express their tempers
-and interrupt each other, more frequently than we are used to.
+Saturday's GCC Barn Raising session saw a number of people express
+their tempers and interrupt each other, more frequently than we are
+used to.
 
-Jaswinder definitely encouraged the expressions of "direct" disagreements,
-and I think that catalyzed a number of such strongs reactions.
+Jaswinder definitely encouraged the expressions of "direct"
+disagreements, and I think that catalyzed a number of such strongs
+reactions.
 
-After one observation *I* made myself regarding whether our experiment on FOCUS
-was proceeding Joshua chimed in with a "F**k You" and quick departure.
+After one observation *I* made myself regarding whether our experiment
+on FOCUS was proceeding Joshua chimed in with a "F**k You" and quick
+departure.
 
 I'll have to review this session again to ask myself:
 * Could we have prevented this?
