@@ -26,13 +26,13 @@ TODO: Update with links to additional information & detail
 
 ## Curriculum Vitae
 
-TODO: Update this
+TODO: Update this:
 
-| Date | Event |
-|:---:|:---|
-| 20200428 | KM World Webinar, with Danyelle Myrick, from Georgia Power |
-| 20200423 | Cisco, Discovery Benefits, eGain Webinar |
-| 20200409 | Forrester Webinar: CoVid-19 and Contact Center Engagement, with Kate Leggett (VP Forrester) |
+| Date | | Event |
+|:---:|---|:---|
+| 20200428 | | KM World Webinar, with Danyelle Myrick, from Georgia Power |
+| 20200423 | | Cisco, Discovery Benefits, eGain Webinar |
+| 20200409 | | Forrester Webinar: CoVid-19 and Contact Center Engagement, with Kate Leggett (VP Forrester) |
 
 ## Patents
 
