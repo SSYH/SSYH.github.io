@@ -42,10 +42,12 @@ TODO: Include links to USPTO here
 * Document Recognition and Handling, utility patent
 * Electronic File Cabinet, design patent
 
-## Contact me
+## Contact Sam
 
 | **Contaxt:** | | **Tobox:** |
 |---:|:---:|:---|
 |   Personal: | | [S@mHahn.com](mailto:S@mHahn.com) |
 |       Work: | | [SHahn@eGain.com](mailto:SHahn@eGain.com) |
-| GCC / PFTF: | | [Sam@ProgramForTheFuture.com](mailto:Sam@ProgramForTheFuture.com)
+| GCC / PFTF: | | [Sam@ProgramForTheFuture.com](mailto:Sam@ProgramForTheFuture.com) |
+|   LinkedIn: | | [Angelpreneur](http://linkedin.com/in/Angelpreneur) |
+|    Twitter: | | [SamHahn](http://twitter.com/SamHahn) |
