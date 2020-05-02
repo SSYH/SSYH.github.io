@@ -1,0 +1,33 @@
+---
+layout: post
+title: Focus Experiment
+---
+
+A few weeks ago (I'll look up when) in a Barn Raising session, I heard
+again an oft-repeated refrain that we were having trouble focusing and
+getting things done. I've been trying to balance focus on a path I
+have in my mind with the exploration of what naturally comes up that
+is of interest to session participants.
+
+So I proposed an experiment: that each BR regular (or at least those
+in that particular session) be given an opportunity to take a
+particular Saturday, and do 2 things:
+1. Bring a topic that s/he wants the group to focus on
+1. Take on moderation responsibility for that session, and utilize
+whatever techniques, practices, guidelines, tools, etc. that the
+person believes can assist in bringing that focus
+
+This would be the first part of these Saturday experiments. The close
+of the session (30-45 min) I would lead a "reflection" or
+"retrospective" on how that session went. In particular, my interest
+was
+1. Did the group feel focus was achieved?
+1. Did the moderator effectively utilize experience, techniques,
+etc. in order to achieve that focus?
+1. Did the group effectively collaborate / cocreate around that focus?
+
+Either in updates to this post, or in later posts, I'll post reflections on the sessions that haev alreadyu been held.
+
+Next 2 sessions:
+1. Saturday May 2: Eric Rangell
+2. Saturday May 9: Phalan Morelife
