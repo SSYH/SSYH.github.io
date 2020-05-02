@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Sam
 permalink: /about/
 ---
 
@@ -27,21 +27,22 @@ TODO: Update with links to additional information & detail
 ## Curriculum Vitae
 
 TODO: Update this
+* 20200428 KM World Webinar, with Danyelle Myrick, from Georgia Power
 * 20200423 Cisco, Discovery Benefits, eGain Webinar
-* 20200409 Forrester Webinar: CoVid-19 and Contact Center Engagement
+* 20200409 Forrester Webinar: CoVid-19 and Contact Center Engagement, with Kate Leggett (VP Forrester)
 
 ## Patents
 
 TODO: Include links to USPTO here
 
-* Cobrowse
-* Document Recognition and Handling
-* Electronic File Cabinet
+* Cobrowse, utility patent
+* Document Recognition and Handling, utility patent
+* Electronic File Cabinet, design patent
 
 ## Contact me
 
 | Contaxt: | | Tobox: |
 |---:|:---:|:---|
-| Personal: | | [S@mHahn.com](mailto:S@mHahn.com) |
-|     Work: | | [SHahn@eGain.com](mailto:SHahn@eGain.com) |
-|     PFTF: | | [Sam@ProgramForTheFuture.com](mailto:Sam@ProgramForTheFuture.com)
+|   Personal: | | [S@mHahn.com](mailto:S@mHahn.com) |
+|       Work: | | [SHahn@eGain.com](mailto:SHahn@eGain.com) |
+| GCC / PFTF: | | [Sam@ProgramForTheFuture.com](mailto:Sam@ProgramForTheFuture.com)
