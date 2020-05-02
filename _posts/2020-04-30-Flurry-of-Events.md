@@ -19,16 +19,17 @@ enjoys hearing me present.
 Last Friday (4/24), Ashu and JC asked me to give the Product
 Management team at ORION a summary of the "digital optimization" work
 I'd done and communicated to [redacted], and Ashu had very nice things
-to say about this new area of pursuit: [redacted]. 
-This is exciting because done well, it can enable us to
-be trusted partners and counselors to businesses in how to optimize
-their digital engagement with their customers, in larger "Digital
-Transformation" initiatives.
+to say about this new area of pursuit: [redacted].  This is exciting
+because done well, it can enable us to be trusted partners and
+counselors to businesses in how to optimize their digital engagement
+with their customers, in larger "Digital Transformation" initiatives.
 
 Last Thursday (4/23), Karthik had asked me to present the "eGain and
-CoVid-19" segment of the Cisco ECE webinar with Kyla Dubord, from Discovery Benefits,
-based on what he heard me do with the Forrester webinar on Apr 9.
+CoVid-19" segment of the Cisco ECE webinar with Kyla Dubord, from
+Discovery Benefits, based on what he heard me do with the Forrester
+webinar on Apr 9.
 
-The webinar Karthik had attended was Thursday (4/9) with Kate Leggett (Forrester),
-again with Anna as my handler. Other than going over allotted time, I thought it went ok, and Karthik heard enough to invite
-me to present with him on 4/23.
+The webinar Karthik had attended was Thursday (4/9) with Kate Leggett
+(Forrester), again with Anna as my handler. Other than going over
+allotted time, I thought it went ok, and Karthik heard enough to
+invite me to present with him on 4/23.
