@@ -28,8 +28,8 @@ TODO: Update with links to additional information & detail
 
 TODO: Update this:
 
-| Date | | Event |
-|:---:|---|:---|
+| **Date:** | | **Event:** |
+|:---|---|:---|
 | 20200428 | | KM World Webinar, with Danyelle Myrick, from Georgia Power |
 | 20200423 | | Cisco, Discovery Benefits, eGain Webinar |
 | 20200409 | | Forrester Webinar: CoVid-19 and Contact Center Engagement, with Kate Leggett (VP Forrester) |
@@ -44,7 +44,7 @@ TODO: Include links to USPTO here
 
 ## Contact me
 
-| Contaxt: | | Tobox: |
+| **Contaxt:** | | **Tobox:** |
 |---:|:---:|:---|
 |   Personal: | | [S@mHahn.com](mailto:S@mHahn.com) |
 |       Work: | | [SHahn@eGain.com](mailto:SHahn@eGain.com) |
