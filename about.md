@@ -33,6 +33,10 @@ TODO: Update this:
 | 2020.04.28 | | [KM World Webinar, with Danyelle Myrick, from Georgia Power](https://www.kmworld.com/Webinars/1461-AI-Knowledge-The-Cure-for-CX-and-AX-Woes-Amid-Covid-19.htm) |
 | 2020.04.23 | | Cisco, Discovery Benefits, eGain Webinar |
 | 2020.04.09 | | [Forrester Webinar: CoVid-19 and Contact Center Engagement, with Kate Leggett (VP Forrester)](https://www.egain.com/webinar-sustaining-cx-excellence-in-the-year-of-the-pandemic/) |
+| 2014.09.xx | | Knowledge Federation Conference 2014, Dubrovnik, Croatia |
+| 2012.09.xx | | Knowledge Federation Conference 2012, Dubrovnik, Croatia |
+| 1992.03.22 | | Bootstrapping, Douglas Carl Engelbart, Skilling Auditorium, Stanford University |
+| 1983.xx.xx | | Strategic Automatic Discovery System, Central Intelligence Agency |
 
 ## Patents
 
@@ -45,6 +49,14 @@ TODO: Update this:
 * [System for organizing document icons with suggestions, folders, drawers, and cabinets](https://patents.google.com/patent/US5751287A/en), 1995
 * [Intelligent Document Recognition and Handling](https://patents.google.com/patent/US5877963A/en), 1994, 1997
 * Prior work at ESL and TRW: unpublishable as TOP SECRET / SCI (pre 1993) - including artificial intelligence, expert systems, text and document analysis, automated document understanding, automatic network construction and analysis of people and organizations, geospatial data management, cartographic systems (GIS), cartographic data production, intelligence analysis workstations, signals analysis, analyst-augmentation data analysis and interpretation, hypertext, multidimensional data visualization, etc. - precursors to "*Big Data*"
+
+## Other
+
+* Graduate studies in Artificial Intelligence: Stanford University (1983-1985), sponsors: Doug Lenat, Michael Genesereth
+* Undergraduate: BS Mathematics, Stanford University (1976-1980), Advisor: Hans Samelson
+* ACM Life Member
+* TWAIN Working Group (Chairman, 1995-1997)
+* Stanford Alumni Association, life member
 
 ## Contact Sam
 
