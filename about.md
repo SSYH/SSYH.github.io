@@ -4,25 +4,31 @@ title: About Sam
 permalink: /about/
 ---
 
+<hr/>
+
 ## Roles and Positions
 TODO: Update with links to additional information & detail
 * Technology Evangelist at [eGain](http://egain.com)
 * Member, [Global Challenges Collaboration](https://www.facebook.com/groups/GlobalChallengesCollaboration/)
-* Moderator, Barn Raising Saturdays (GCC)
+* Host and Moderator, GCC Barn Raising Saturdays
 * Founding and amateur collaborologist
 * Managing partner at Program For The Future
 * Douglas Carl Engelbart disciple-wannabe
-* ex VP Engineering, Purisma
-* ex Director of Engineering, Siebel Systems
-* ex Partner, Sand Hill Angels
+* VP Engineering, Purisma
+* Director of Engineering, Siebel Systems
+* Partner, Sand Hill Angels
 * Co-Founder, DocuMagix (product: PaperMaster)
 * Principal Investigator, Intelligence Analysis Systems, ESL (Electromagnetic Systems Laboratory), TRW
-* Systems Engineer, TRW
-* ex Conductor, Palo Alto Chamber Orchestra - SuperStrings
-* ex Conductor, Palo Alto Chamber Orchestra - Twilight Concerts (Sunday evenings)
-* Tai Chi Player, Zhao Bao (SiFu Peng Wen), ex Yang Style (SiFu Gorden Feng)
-* Violinist (Albuquerque Youth Symphony, Seattle Youth Symphony, Stanford University Symphony Orchestra)
+* Systems Engineer, TRW (Science Operations Ground Stations (SOGS) - for Space Telescope)
+* Conductor, Palo Alto Chamber Orchestra - Prep Orchestra (10-12 year old string musicians)
+* Conductor, Palo Alto Chamber Orchestra - Twilight Concerts (Sunday evenings, graduates, professionals)
 * Guest Conductor and Chamber Music Coach - Whitson Chamber Music Workshop (San Luis Obispo)
+* VIolinist (principle 2nd) Stanford University Symphony Orchestra
+* Violinist (1st section, with Connie Knudson?) Seattle Youth Symphony, 
+* Violinist (1st stand, with Mark Rush) Albuquerque Youth Symphony, 
+* Tai Chi Player, Zhao Bao (SiFu Peng Wen, Cupertino), ex Yang Style (SiFu Gorden Feng, San Francisco)
+
+<hr/>
 
 ## Curriculum Vitae
 
@@ -38,6 +44,8 @@ TODO: Update this:
 | 1992.03.22 | | Bootstrapping, Douglas Carl Engelbart, Skilling Auditorium, Stanford University |
 | 1983.xx.xx | | Strategic Automatic Discovery System, Central Intelligence Agency |
 
+<hr/>
+
 ## Patents
 
 * [Method and system for co-browsing in a B2C architecture through co-browsing functionality embedded in content of a content provider as initiated by a guest to a co-browse session](https://patents.google.com/patent/US10038747B2/en), 2014
@@ -50,13 +58,17 @@ TODO: Update this:
 * [Intelligent Document Recognition and Handling](https://patents.google.com/patent/US5877963A/en), 1994, 1997
 * Prior work at ESL and TRW: unpublishable as TOP SECRET / SCI (pre 1993) - including artificial intelligence, expert systems, text and document analysis, automated document understanding, automatic network construction and analysis of people and organizations, geospatial data management, cartographic systems (GIS), cartographic data production, intelligence analysis workstations, signals analysis, analyst-augmentation data analysis and interpretation, hypertext, multidimensional data visualization, etc. - precursors to "*Big Data*"
 
+<hr/>
+
 ## Other
 
-* Graduate studies in Artificial Intelligence: Stanford University (1983-1985), sponsors: Doug Lenat, Michael Genesereth
+* Graduate studies in Artificial Intelligence: Stanford University (1983-1985), sponsors: Doug Lenat, Michael Genesereth, Penni Nii
 * Undergraduate: BS Mathematics, Stanford University (1976-1980), Advisor: Hans Samelson
 * ACM Life Member
 * TWAIN Working Group (Chairman, 1995-1997)
 * Stanford Alumni Association, life member
+
+<hr/>
 
 ## Contact Sam
 
@@ -67,3 +79,5 @@ TODO: Update this:
 | GCC / PFTF: | | [Sam@ProgramForTheFuture.com](mailto:Sam@ProgramForTheFuture.com) |
 |   LinkedIn: | | [Angelpreneur](http://linkedin.com/in/Angelpreneur) |
 |    Twitter: | | [SamHahn](http://twitter.com/SamHahn) |
+
+<hr/>
