@@ -30,9 +30,9 @@ TODO: Update this:
 
 | **Date:** | | **Event:** |
 |:---|---|:---|
-| 2020-04-28 | | [KM World Webinar, with Danyelle Myrick, from Georgia Power](https://www.kmworld.com/Webinars/1461-AI-Knowledge-The-Cure-for-CX-and-AX-Woes-Amid-Covid-19.htm) |
-| 2020-04-23 | | Cisco, Discovery Benefits, eGain Webinar |
-| 2020-04-09 | | [Forrester Webinar: CoVid-19 and Contact Center Engagement, with Kate Leggett (VP Forrester)](https://www.egain.com/webinar-sustaining-cx-excellence-in-the-year-of-the-pandemic/) |
+| 20-04-28 | | [KM World Webinar, with Danyelle Myrick, from Georgia Power](https://www.kmworld.com/Webinars/1461-AI-Knowledge-The-Cure-for-CX-and-AX-Woes-Amid-Covid-19.htm) |
+| 20-04-23 | | Cisco, Discovery Benefits, eGain Webinar |
+| 20-04-09 | | [Forrester Webinar: CoVid-19 and Contact Center Engagement, with Kate Leggett (VP Forrester)](https://www.egain.com/webinar-sustaining-cx-excellence-in-the-year-of-the-pandemic/) |
 
 ## Patents
 
