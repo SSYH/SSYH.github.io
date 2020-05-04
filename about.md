@@ -36,8 +36,6 @@ TODO: Update this:
 
 ## Patents
 
-TODO: Include links to USPTO here
-
 * [Method and system for co-browsing in a B2C architecture through co-browsing functionality embedded in content of a content provider as initiated by a guest to a co-browse session](https://patents.google.com/patent/US10038747B2/en), 2014
 * [Method and system for web page markup including notes, sketches, and stamps](https://patents.google.com/patent/US20140173393A1/en), 2013
 * [Communication associated with a webpage](https://patents.google.com/patent/US9723037B2/en), 2011, 2014
@@ -46,6 +44,7 @@ TODO: Include links to USPTO here
 * [Client server system with thin client architecture](https://patents.google.com/patent/US20020065879A1/en), 1999, 2001
 * [System for organizing document icons with suggestions, folders, drawers, and cabinets](https://patents.google.com/patent/US5751287A/en), 1995
 * [Intelligent Document Recognition and Handling](https://patents.google.com/patent/US5877963A/en), 1994, 1997
+* Prior work at ESL and TRW: unpublishable as TOP SECRET / SCI (pre 1993) - involving artificial intelligence, expert systems, text analysis, automated document understanding, automatic network analysis of people and organizations,  geospatial data management, cartographic systems, cartographic data production, intelligence analysis workstations, signals analysis, analyst-augmentation data analysis and interpretation, etc.
 
 ## Contact Sam
 
