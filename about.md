@@ -44,7 +44,7 @@ TODO: Update this:
 * [Client server system with thin client architecture](https://patents.google.com/patent/US20020065879A1/en), 1999, 2001
 * [System for organizing document icons with suggestions, folders, drawers, and cabinets](https://patents.google.com/patent/US5751287A/en), 1995
 * [Intelligent Document Recognition and Handling](https://patents.google.com/patent/US5877963A/en), 1994, 1997
-* Prior work at ESL and TRW: unpublishable as TOP SECRET / SCI (pre 1993) - involving artificial intelligence, expert systems, text analysis, automated document understanding, automatic network analysis of people and organizations,  geospatial data management, cartographic systems, cartographic data production, intelligence analysis workstations, signals analysis, analyst-augmentation data analysis and interpretation, etc.
+* Prior work at ESL and TRW: unpublishable as TOP SECRET / SCI (pre 1993) - including artificial intelligence, expert systems, text and document analysis, automated document understanding, automatic network construction and analysis of people and organizations, geospatial data management, cartographic systems (GIS), cartographic data production, intelligence analysis workstations, signals analysis, analyst-augmentation data analysis and interpretation, hypertext, multidimensional data visualization, etc. - precursors to "Big Data"
 
 ## Contact Sam
 
