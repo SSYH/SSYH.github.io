@@ -38,14 +38,14 @@ TODO: Update this:
 
 TODO: Include links to USPTO here
 
-* [Communication associated with a webpage](https://patents.google.com/patent/US9723037B2/en)
-* [Method and system for co-browsing in a B2C architecture through co-browsing functionality embedded in content of a content provider as initiated by a guest to a co-browse session](https://patents.google.com/patent/US10038747B2/en)
-* [Interaction using content](https://patents.google.com/patent/US8676895B1/en)
-* [Method and system for web page markup including notes, sketches, and stamps](https://patents.google.com/patent/US20140173393A1/en)
-* [Analyzing navigation with a webpage](https://patents.google.com/patent/US10129346B1/en)
-* [Client server system with thin client architecture](https://patents.google.com/patent/US20020065879A1/en)
-* [Intelligent Document Recognition and Handling](https://patents.google.com/patent/US5877963A/en), utility patent
-* [System for organizing document icons with suggestions, folders, drawers, and cabinets](https://patents.google.com/patent/US5751287A/en)
+* [Method and system for co-browsing in a B2C architecture through co-browsing functionality embedded in content of a content provider as initiated by a guest to a co-browse session](https://patents.google.com/patent/US10038747B2/en), 2014
+* [Method and system for web page markup including notes, sketches, and stamps](https://patents.google.com/patent/US20140173393A1/en), 2013
+* [Communication associated with a webpage](https://patents.google.com/patent/US9723037B2/en), 2011, 2014
+* [Interaction using content](https://patents.google.com/patent/US8676895B1/en), 2011, 2014
+* [Analyzing navigation with a webpage](https://patents.google.com/patent/US10129346B1/en), 2011
+* [Client server system with thin client architecture](https://patents.google.com/patent/US20020065879A1/en), 1999, 2001
+* [System for organizing document icons with suggestions, folders, drawers, and cabinets](https://patents.google.com/patent/US5751287A/en), 1995
+* [Intelligent Document Recognition and Handling](https://patents.google.com/patent/US5877963A/en), 1994, 1997
 
 ## Contact Sam
 
