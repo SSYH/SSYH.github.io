@@ -7,32 +7,29 @@ permalink: /about/
 <hr/>
 
 ## Roles and Positions
-TODO: Update with links to additional information & detail
 * Technology Evangelist at [eGain](http://egain.com)
 * Member, [Global Challenges Collaboration](https://www.facebook.com/groups/GlobalChallengesCollaboration/)
 * Host and Moderator, GCC Barn Raising Saturdays
-* Founding and amateur collaborologist
-* Managing partner at Program For The Future
+* Founding and amateur Collaborologist
+* Managing partner at Program For The Future, with Darla Hewett, Eileen Clegg, et al
 * Douglas Carl Engelbart disciple-wannabe
 * VP Engineering, Purisma
-* Director of Engineering, Siebel Systems
-* Partner, Sand Hill Angels
-* Co-Founder, DocuMagix (product: PaperMaster)
-* Principal Investigator, Intelligence Analysis Systems, ESL (Electromagnetic Systems Laboratory), TRW
-* Systems Engineer, TRW (Science Operations Ground Stations (SOGS) - for Space Telescope)
-* Conductor, Palo Alto Chamber Orchestra - Prep Orchestra (10-12 year old string musicians)
-* Conductor, Palo Alto Chamber Orchestra - Twilight Concerts (Sunday evenings, graduates, professionals)
+* Director of Engineering, Siebel Systems, under Bill Edwards, Tom Siebel
+* Partner, Sand Hill Angels with Steve Stephensen, et al
+* Co-Founder, DocuMagix (product: PaperMaster), with Steve Leung
+* Principal Investigator, Intelligence Analysis Systems, ESL (Electromagnetic Systems Laboratory), TRW, with Steve (K) Leung, Carl Verhey, et al
+* Systems Engineer, TRW (Science Operations Ground Stations (SOGS) - for Space Telescope), with Carl Reichwein, et al
+* Conductor, Palo Alto Chamber Orchestra - Prep Orchestra (10-12 year old string musicians), for William Whitson
+* Conductor, Palo Alto Chamber Orchestra - Twilight Concerts (Sunday evenings, graduates, professionals), for William Whitson
 * Guest Conductor and Chamber Music Coach - Whitson Chamber Music Workshop (San Luis Obispo)
-* VIolinist (principle 2nd) Stanford University Symphony Orchestra
-* Violinist (1st section, with Connie Knudson?) Seattle Youth Symphony, 
-* Violinist (1st stand, with Mark Rush) Albuquerque Youth Symphony, 
+* Violinist (principle 2nd) Stanford University Symphony Orchestra, under Andor Toth
+* Violinist (1st section, with Connie Knudson?) Seattle Youth Symphony, under Vilem (Bill) Sokol
+* Violinist (1st stand, with Mark Rush) Albuquerque Youth Symphony, under Dale Kempter
 * Tai Chi Player, Zhao Bao (SiFu Peng Wen, Cupertino), ex Yang Style (SiFu Gorden Feng, San Francisco)
 
 <hr/>
 
 ## Curriculum Vitae
-
-TODO: Update this:
 
 | **Date:** | | **Event:** |
 |:---|---|:---|
@@ -62,10 +59,10 @@ TODO: Update this:
 
 ## Other
 
-* Graduate studies in Artificial Intelligence: Stanford University (1983-1985), sponsors: Doug Lenat, Michael Genesereth, Penni Nii
-* Undergraduate: BS Mathematics, Stanford University (1976-1980), Advisor: Hans Samelson
-* ACM Life Member
-* TWAIN Working Group (Chairman, 1995-1997)
+* Graduate studies in Artificial Intelligence: [Stanford University](http://stanford.edu) (1983-1985), sponsors: Doug Lenat, Michael Genesereth, Penni Nii
+* Undergraduate: BS Mathematics, [Stanford University](http://stanford.edu) (1976-1980), Advisor: Hans Samelson
+* [ACM](http://acm.org) Life Member
+* [TWAIN Working Group](http://twain.org) (Chairman, 1995-1997)
 * Stanford Alumni Association, life member
 
 <hr/>
