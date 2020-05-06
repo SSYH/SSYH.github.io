@@ -17,7 +17,7 @@ permalink: /about/
 * Director of Engineering, Siebel Systems, under Bill Edwards, Tom Siebel
 * Partner, Sand Hill Angels with Steve Stephensen, et al
 * Co-Founder, DocuMagix (product: PaperMaster), with Steve Leung
-* Principal Investigator, Intelligence Analysis Systems, ESL (Electromagnetic Systems Laboratory), TRW, with Steve (K) Leung, Carl Verhey, et al
+* Principal Investigator, Intelligence Analysis Systems, ESL (Electromagnetic Systems Laboratory), TRW, with Steve (K) Leung, Albert Clarkson, Bijoy Chatterjee, Carl Verhey, et al
 * Systems Engineer, TRW (Science Operations Ground Stations (SOGS) - for Space Telescope), with Carl Reichwein, et al
 * Conductor, Palo Alto Chamber Orchestra - Prep Orchestra (10-12 year old string musicians), for William Whitson
 * Conductor, Palo Alto Chamber Orchestra - Twilight Concerts (Sunday evenings, graduates, professionals), for William Whitson
@@ -39,7 +39,7 @@ permalink: /about/
 | 2014.09.xx | | Knowledge Federation Conference 2014, Dubrovnik, Croatia |
 | 2012.09.xx | | Knowledge Federation Conference 2012, Dubrovnik, Croatia |
 | 1992.03.22 | | Bootstrapping, Douglas Carl Engelbart, Skilling Auditorium, Stanford University |
-| 1983.xx.xx | | Strategic Automatic Discovery System, Central Intelligence Agency |
+| 1983.xx.xx | | Strategic Automatic Discovery System, Central Intelligence Agency (C.Diegnan, S.Kandle)|
 
 <hr/>
 
@@ -63,7 +63,7 @@ permalink: /about/
 * Undergraduate: BS Mathematics, [Stanford University](http://stanford.edu) (1976-1980), Advisor: Hans Samelson
 * [ACM](http://acm.org) Life Member
 * [TWAIN Working Group](http://twain.org) (Chairman, 1995-1997)
-* Stanford Alumni Association, life member
+* [Stanford Alumni Association](http://alumni.stanford.edu), life member
 
 <hr/>
 
