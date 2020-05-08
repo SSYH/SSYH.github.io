@@ -17,7 +17,12 @@ would be recorded in its raw form, SEPARATE and distinct
 from the "reputation" component of the "ledger entry";
 * the object remaining immutable, but augmentable, and
 * the "reputation" component evolving over time, not static
+* Reputation must be multi-dimensional / multi-factor.
 * more later
+
+
+It is simplistic and naive to believe it's in a single currency or metric.
+Each of us has "different values".
 
 These thoughts first collected in response to a 
 [FB post](https://www.facebook.com/groups/GlobalChallengesCollaboration/permalink/1264369260427146/) 
