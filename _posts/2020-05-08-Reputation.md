@@ -24,6 +24,15 @@ from the "reputation" component of the "ledger entry";
 It is simplistic and naive to believe it's in a single currency or metric.
 Each of us has "different values".
 
+"Single transaction value" metrics, actually exchanged, fail to
+recognize pre-transaction deception, and also fail to recognize "deep
+value". "Deep value" in this sense representing that future impact
+that is not possible to recognize in the instant of a transaction or a
+record or enactment. So rather than having value / reputation be a
+STATIC event with a fixed metric that doesn't change ever ("s/he's
+been paid"), I prefer it being an object that evolves, with a "value
+pipeline" recognizing long-term contribution.
+
 These thoughts first collected in response to a 
 [FB post](https://www.facebook.com/groups/GlobalChallengesCollaboration/permalink/1264369260427146/) 
 from Angus Joseph, and response from Aaron Perlmutter.
