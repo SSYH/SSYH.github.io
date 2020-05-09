@@ -82,6 +82,7 @@ permalink: /about/
 <hr/>
 
 ## Contact Sam
+
 | **Contaxt:** | | **Tobox:** |
 |---:|:---:|:---|
 |   Personal: | | [S@mHahn.com](mailto:S@mHahn.com) |
