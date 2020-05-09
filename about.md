@@ -64,10 +64,10 @@ permalink: /about/
 
 ## Other
 
-* Program For The Future, 2015, Palo Alto, CA
-* Program For The Future, 2013, Google, Mountain View, CA
-* Program For The Future, 2010, San Jose Tech Museum
-* Program For The Future, 2008, San Jose Tech Museum
+* **Program For The Future**, 2015, Palo Alto, CA, Conference CoConvener (Frode Hegland, et al)
+* **Program For The Future**, 2013, Google, Mountain View, CA, Conference, CoConvener (DKarabeg, et al)
+* **Program For The Future**, 2010, San Jose Tech Museum, Conference CoConvener (MLFung, DHewett)
+* **Program For The Future**, 2008, San Jose Tech Museum, Conference CoConvener (MLFung, DHewett, RStephenson, JOrr, EClegg, VLandau, RK)
 * Funding sponsor for ADTIngres (precursor to PostgreSQL, development of R-Tree based geospatial data structures and operators), Ru-Mei Kung, Michael Stonebraker, UC Berkeley
 * *Graduate studies in Artificial Intelligence*, [Stanford University](http://stanford.edu) (1983-1985), sponsors: Doug Lenat, Michael Genesereth, Penni Nii
 * Undergraduate: *BS Mathematics*, [Stanford University](http://stanford.edu) (1976-1980), Advisor: Hans Samelson
