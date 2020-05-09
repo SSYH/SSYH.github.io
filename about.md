@@ -37,40 +37,40 @@ permalink: /about/
 
 | **Date:** | | **Event:** |
 |:---|---|:---|
-| 2020.04.28 | | [KM World Webinar, with Danyelle Myrick, from Georgia Power](https://www.kmworld.com/Webinars/1461-AI-Knowledge-The-Cure-for-CX-and-AX-Woes-Amid-Covid-19.htm) |
+| 2020.04.28 | | [**KM World Webinar**, with Danyelle Myrick, from Georgia Power](https://www.kmworld.com/Webinars/1461-AI-Knowledge-The-Cure-for-CX-and-AX-Woes-Amid-Covid-19.htm) |
 | 2020.04.23 | | Cisco, Discovery Benefits, eGain Webinar |
-| 2020.04.09 | | [Forrester Webinar: CoVid-19 and Contact Center Engagement, with Kate Leggett (VP Forrester)](https://www.egain.com/webinar-sustaining-cx-excellence-in-the-year-of-the-pandemic/) |
-| 2014.09.xx | | Knowledge Federation Conference 2014, Dubrovnik, Croatia |
-| 2012.09.xx | | Knowledge Federation Conference 2012, Dubrovnik, Croatia |
-| 1992.03.22 | | Bootstrapping, Douglas Carl Engelbart, Skilling Auditorium, Stanford University |
-| 1983.xx.xx | | Strategic Automatic Discovery System, Central Intelligence Agency (C.Diegnan, S.Kandle)|
+| 2020.04.09 | | [Forrester Webinar: **CoVid-19 and Contact Center Engagement**, with Kate Leggett (VP Forrester)](https://www.egain.com/webinar-sustaining-cx-excellence-in-the-year-of-the-pandemic/) |
+| 2019.05.13 | | DX19 London | [**What a VA Needs: ML, AI, and Knowledge** - Sam Hahn](https://youtu.be/yNoDGq4BiOs), Technology Evangelist, eGain, [(YouTube)](https://youtu.be/yNoDGq4BiOs) [(Vimeo)](https://vimeo.com/336222328) |
+| 2014.09.xx | | **Knowledge Federation Conference 2014**, Dubrovnik, Croatia |
+| 2012.09.xx | | **Knowledge Federation Conference 2012**, Dubrovnik, Croatia |
+| 1992.03.22 | | **Bootstrapping, Douglas Carl Engelbart**, Skilling Auditorium, Stanford University |
+| 1983.xx.xx | | **Strategic Automatic Discovery System**, Central Intelligence Agency (Doug Lenat, Colleen Diegnan, Sherry Cable)|
 
 <hr/>
 
 ## Patents
 
-* [Method and system for co-browsing in a B2C architecture through co-browsing functionality embedded in content of a content provider as initiated by a guest to a co-browse session](https://patents.google.com/patent/US10038747B2/en), 2014
-* [Method and system for web page markup including notes, sketches, and stamps](https://patents.google.com/patent/US20140173393A1/en), 2013
-* [Communication associated with a webpage](https://patents.google.com/patent/US9723037B2/en), 2011, 2014
-* [Interaction using content](https://patents.google.com/patent/US8676895B1/en), 2011, 2014
-* [Analyzing navigation with a webpage](https://patents.google.com/patent/US10129346B1/en), 2011
-* [Client server system with thin client architecture](https://patents.google.com/patent/US20020065879A1/en), 1999, 2001
-* [System for organizing document icons with suggestions, folders, drawers, and cabinets](https://patents.google.com/patent/US5751287A/en), 1995
-* [Intelligent Document Recognition and Handling](https://patents.google.com/patent/US5877963A/en), 1994, 1997
-* Prior work at ESL and TRW: unpublishable as TOP SECRET / SCI (pre 1993) - including artificial intelligence, expert systems, text and document analysis, automated document understanding, automatic network construction and analysis of people and organizations, geospatial data management, cartographic systems (GIS), cartographic data production, intelligence analysis workstations, signals analysis, analyst-augmentation data analysis and interpretation, hypertext, multidimensional data visualization, etc. - precursors to "*Big Data*"
+* [**Method and system for co-browsing in a B2C architecture through co-browsing functionality embedded in content of a content provider as initiated by a guest to a co-browse session**](https://patents.google.com/patent/US10038747B2/en), 2014
+* [**Method and system for web page markup including notes, sketches, and stamps**](https://patents.google.com/patent/US20140173393A1/en), 2013
+* [**Communication associated with a webpage**](https://patents.google.com/patent/US9723037B2/en), 2011, 2014
+* [**Interaction using content**](https://patents.google.com/patent/US8676895B1/en), 2011, 2014
+* [**Analyzing navigation with a webpage**](https://patents.google.com/patent/US10129346B1/en), 2011
+* [**Client server system with thin client architecture**](https://patents.google.com/patent/US20020065879A1/en), 1999, 2001
+* [**System for organizing document icons with suggestions, folders, drawers, and cabinets**](https://patents.google.com/patent/US5751287A/en), 1995
+* [**Intelligent Document Recognition and Handling**](https://patents.google.com/patent/US5877963A/en), 1994, 1997
+* Prior work at ESL and TRW: unpublishable as TOP SECRET / SCI (pre 1993) - including *artificial intelligence, expert systems, text and document analysis, automated document understanding, automatic network construction and analysis of people and organizations, geospatial data management, cartographic systems (GIS), cartographic data production, intelligence analysis workstations, signals analysis, analyst-augmentation data analysis and interpretation, hypertext, multidimensional data visualization, etc. - precursors to "*Big Data*"*
 
 <hr/>
 
 ## Other
 
-* Graduate studies in Artificial Intelligence: [Stanford University](http://stanford.edu) (1983-1985), sponsors: Doug Lenat, Michael Genesereth, Penni Nii
-* Undergraduate: BS Mathematics, [Stanford University](http://stanford.edu) (1976-1980), Advisor: Hans Samelson
-* [Bootstrap Institute](http://bootstrap.org), with [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
-* [ACM](http://acm.org) Life Member
-* [TWAIN Working Group](http://twain.org) (Chairman, 1995-1997)
-* [Stanford Alumni Association](http://alumni.stanford.edu), life member
-* 
-* [NextNow Network](http://www.nextnow.net/)
+* *Graduate studies in Artificial Intelligence*, [Stanford University](http://stanford.edu) (1983-1985), sponsors: Doug Lenat, Michael Genesereth, Penni Nii
+* Undergraduate: *BS Mathematics*, [Stanford University](http://stanford.edu) (1976-1980), Advisor: Hans Samelson
+* [*Bootstrap Institute*](http://bootstrap.org), with [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
+* [**ACM**](http://acm.org) Life Member
+* [**TWAIN Working Group**](http://twain.org) (Chairman, 1995-1997)
+* [*Stanford Alumni Association*](http://alumni.stanford.edu), life member
+* [*NextNow Network*](http://www.nextnow.net/)
 
 <hr/>
 
