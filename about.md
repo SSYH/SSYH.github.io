@@ -40,7 +40,7 @@ permalink: /about/
 | 2020.04.28 | | [**KM World Webinar**, with Danyelle Myrick, from Georgia Power](https://www.kmworld.com/Webinars/1461-AI-Knowledge-The-Cure-for-CX-and-AX-Woes-Amid-Covid-19.htm) |
 | 2020.04.23 | | Cisco, Discovery Benefits, eGain Webinar |
 | 2020.04.09 | | [Forrester Webinar: **CoVid-19 and Contact Center Engagement**, with Kate Leggett (VP Forrester)](https://www.egain.com/webinar-sustaining-cx-excellence-in-the-year-of-the-pandemic/) |
-| 2019.05.13 | | DX19 London | [**What a VA Needs: ML, AI, and Knowledge** - Sam Hahn](https://youtu.be/yNoDGq4BiOs), Technology Evangelist, eGain, [(YouTube)](https://youtu.be/yNoDGq4BiOs) [(Vimeo)](https://vimeo.com/336222328) |
+| 2019.05.13 | | DX19 London: [**What a VA Needs: ML, AI, and Knowledge** - Sam Hahn](https://youtu.be/yNoDGq4BiOs), Technology Evangelist, eGain, [(YouTube)](https://youtu.be/yNoDGq4BiOs) [(Vimeo)](https://vimeo.com/336222328) |
 | 2014.09.xx | | **Knowledge Federation Conference 2014**, Dubrovnik, Croatia |
 | 2012.09.xx | | **Knowledge Federation Conference 2012**, Dubrovnik, Croatia |
 | 1992.03.22 | | **Bootstrapping, Douglas Carl Engelbart**, Skilling Auditorium, Stanford University |
