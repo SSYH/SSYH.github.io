@@ -64,6 +64,10 @@ permalink: /about/
 
 ## Other
 
+* Program For The Future, 2015, Palo Alto, CA
+* Program For The Future, 2013, Google, Mountain View, CA
+* Program For The Future, 2010, San Jose Tech Museum
+* Program For The Future, 2008, San Jose Tech Museum
 * *Graduate studies in Artificial Intelligence*, [Stanford University](http://stanford.edu) (1983-1985), sponsors: Doug Lenat, Michael Genesereth, Penni Nii
 * Undergraduate: *BS Mathematics*, [Stanford University](http://stanford.edu) (1976-1980), Advisor: Hans Samelson
 * [*Bootstrap Institute*](http://bootstrap.org), with [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
