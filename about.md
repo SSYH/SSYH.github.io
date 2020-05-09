@@ -50,14 +50,14 @@ permalink: /about/
 
 ## Patents
 
-* [**Method and system for co-browsing in a B2C architecture through co-browsing functionality embedded in content of a content provider as initiated by a guest to a co-browse session**](https://patents.google.com/patent/US10038747B2/en), 2014
-* [**Method and system for web page markup including notes, sketches, and stamps**](https://patents.google.com/patent/US20140173393A1/en), 2013
-* [**Communication associated with a webpage**](https://patents.google.com/patent/US9723037B2/en), 2011, 2014
-* [**Interaction using content**](https://patents.google.com/patent/US8676895B1/en), 2011, 2014
-* [**Analyzing navigation with a webpage**](https://patents.google.com/patent/US10129346B1/en), 2011
-* [**Client server system with thin client architecture**](https://patents.google.com/patent/US20020065879A1/en), 1999, 2001
-* [**System for organizing document icons with suggestions, folders, drawers, and cabinets**](https://patents.google.com/patent/US5751287A/en), 1995
-* [**Intelligent Document Recognition and Handling**](https://patents.google.com/patent/US5877963A/en), 1994, 1997
+* [**Method and system for co-browsing in a B2C architecture through co-browsing functionality embedded in content of a content provider as initiated by a guest to a co-browse session**](https://patents.google.com/patent/US10038747B2/en), US Patent 10,038,747, July 31, 2018
+* [**Method and system for web page markup including notes, sketches, and stamps**](https://patents.google.com/patent/US20140173393A1/en), (filed 2014)
+* [**Communication associated with a webpage**](https://patents.google.com/patent/US9723037B2/en), US Patent 9,723,037, August 01, 2017
+* [**Interaction using content**](https://patents.google.com/patent/US8676895B1/en), US Patent 8,676,895, March 18, 2014
+* [**Analyzing navigation with a webpage**](https://patents.google.com/patent/US10129346B1/en), US Patent 10,129,346, November 13, 2018
+* [**Client server system with thin client architecture**](https://patents.google.com/patent/US20020065879A1/en), filed May 30, 2002
+* [**System for organizing document icons with suggestions, folders, drawers, and cabinets**](https://patents.google.com/patent/US5751287A/en), US Patent 5,751,287, May 12, 1998
+* [**Intelligent Document Recognition and Handling**](https://patents.google.com/patent/US5877963A/en), US Patent 5,877,963, March 02, 1999
 * Prior work at ESL and TRW: unpublishable as TOP SECRET / SCI (pre 1993) - including *artificial intelligence, expert systems, text and document analysis, automated document understanding, automatic network construction and analysis of people and organizations, geospatial data management, cartographic systems (GIS), cartographic data production, intelligence analysis workstations, signals analysis, analyst-augmentation data analysis and interpretation, hypertext, multidimensional data visualization, etc. - precursors to "*Big Data*"*
 
 <hr/>
