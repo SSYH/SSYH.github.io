@@ -8,17 +8,21 @@ permalink: /about/
 
 ## Roles and Positions
 * Technology Evangelist at [eGain](http://egain.com)
+* VP Technology at [eGain](http://egain.com)
+* VP Engineering at [eGain](http://egain.com)
 * Member, [Global Challenges Collaboration](https://www.facebook.com/groups/GlobalChallengesCollaboration/)
 * Host and Moderator, GCC Barn Raising Saturdays
 * Founding and amateur Collaborologist
 * Managing partner at Program For The Future, with Darla Hewett, Eileen Clegg, et al
 * Douglas Carl Engelbart disciple-wannabe
-* VP Engineering, Purisma
+* VP Engineering, Purisma (acquired by Dun & Bradstreet)
+* VP Engineering, Sales.com (Siebel spinout)
 * Director of Engineering, Siebel Systems, under Bill Edwards, Tom Siebel
 * Partner, Sand Hill Angels with Steve Stephensen, et al
-* Co-Founder, DocuMagix (product: PaperMaster), with Steve Leung
-* Principal Investigator, Intelligence Analysis Systems, ESL (Electromagnetic Systems Laboratory), TRW, with Steve (K) Leung, Carl Verhey, et al
-* Systems Engineer, TRW (Science Operations Ground Stations (SOGS) - for Space Telescope), with Carl Reichwein, et al
+* Co-Founder, VP Engineering, CTO, at DocuMagix (product: PaperMaster), with Steve Leung (lead investor: USVP, Irwin Federman)
+* IR&D Sponsor for Douglas Engelbart and the Bootstrap Institute - learned NLS, the chordede keyset, Bootstrapping, collaboration with Doug & Christina (funded the reactivation of the DEC-20 with NLS)
+* Principal Investigator, Intelligence Analysis Systems, ESL (Electromagnetic Systems Laboratory), TRW, with Steve (K) Leung, Albert Clarkson, Bijoy Chatterjee, Carl Verhey, Larry Nichols, Mike Wilkes, et al
+* Systems Engineer, TRW (Science Operations Ground Stations (SOGS) - for Space Telescope), with Carl Reichwein, Ron Burke, Myron Sabes, et al
 * Conductor, Palo Alto Chamber Orchestra - Prep Orchestra (10-12 year old string musicians), for William Whitson
 * Conductor, Palo Alto Chamber Orchestra - Twilight Concerts (Sunday evenings, graduates, professionals), for William Whitson
 * Guest Conductor and Chamber Music Coach - Whitson Chamber Music Workshop (San Luis Obispo)
@@ -39,7 +43,7 @@ permalink: /about/
 | 2014.09.xx | | Knowledge Federation Conference 2014, Dubrovnik, Croatia |
 | 2012.09.xx | | Knowledge Federation Conference 2012, Dubrovnik, Croatia |
 | 1992.03.22 | | Bootstrapping, Douglas Carl Engelbart, Skilling Auditorium, Stanford University |
-| 1983.xx.xx | | Strategic Automatic Discovery System, Central Intelligence Agency |
+| 1983.xx.xx | | Strategic Automatic Discovery System, Central Intelligence Agency (C.Diegnan, S.Kandle)|
 
 <hr/>
 
@@ -61,9 +65,12 @@ permalink: /about/
 
 * Graduate studies in Artificial Intelligence: [Stanford University](http://stanford.edu) (1983-1985), sponsors: Doug Lenat, Michael Genesereth, Penni Nii
 * Undergraduate: BS Mathematics, [Stanford University](http://stanford.edu) (1976-1980), Advisor: Hans Samelson
+* [Bootstrap Institute](http://bootstrap.org), with [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
 * [ACM](http://acm.org) Life Member
 * [TWAIN Working Group](http://twain.org) (Chairman, 1995-1997)
-* Stanford Alumni Association, life member
+* [Stanford Alumni Association](http://alumni.stanford.edu), life member
+* 
+* [NextNow Network](http://www.nextnow.net/)
 
 <hr/>
 
