@@ -58,7 +58,7 @@ permalink: /about/
 * [**Client server system with thin client architecture**](https://patents.google.com/patent/US20020065879A1/en), filed May 30, 2002
 * [**System for organizing document icons with suggestions, folders, drawers, and cabinets**](https://patents.google.com/patent/US5751287A/en), US Patent 5,751,287, May 12, 1998
 * [**Intelligent Document Recognition and Handling**](https://patents.google.com/patent/US5877963A/en), US Patent 5,877,963, March 02, 1999
-* Prior work at ESL and TRW: unpublishable as TOP SECRET / SCI (pre 1993) - including *artificial intelligence, expert systems, text and document analysis, automated document understanding, automatic network construction and analysis of people and organizations, geospatial data management, cartographic systems (GIS), cartographic data production, intelligence analysis workstations, signals analysis, analyst-augmentation data analysis and interpretation, hypertext, multidimensional data visualization, etc. - precursors to "*Big Data*"*
+* Prior work at ESL and TRW: unpublishable as TOP SECRET / SCI (pre 1993) - including *artificial intelligence, expert systems, text and document analysis, automated document understanding, automatic network construction and analysis of people and organizations, geospatial data management, cartographic systems (GIS), cartographic data production, intelligence analysis workstations, signals analysis, analyst-augmentation data analysis and interpretation, hypertext, multidimensional data visualization, etc. - precursors to "*Big Data*"* (projects: FLYBALL, GROUNDBALL, MENTOR, ++)
 
 <hr/>
 
@@ -68,6 +68,7 @@ permalink: /about/
 * Program For The Future, 2013, Google, Mountain View, CA
 * Program For The Future, 2010, San Jose Tech Museum
 * Program For The Future, 2008, San Jose Tech Museum
+* Funding sponsor for ADTIngres (precursor to PostgreSQL, development of R-Tree based geospatial data structures and operators), Ru-Mei Kung, Michael Stonebraker, UC Berkeley
 * *Graduate studies in Artificial Intelligence*, [Stanford University](http://stanford.edu) (1983-1985), sponsors: Doug Lenat, Michael Genesereth, Penni Nii
 * Undergraduate: *BS Mathematics*, [Stanford University](http://stanford.edu) (1976-1980), Advisor: Hans Samelson
 * [*Bootstrap Institute*](http://bootstrap.org), with [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
