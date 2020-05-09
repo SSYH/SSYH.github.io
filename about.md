@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Sam
+title: About Sam Hahn
 permalink: /about/
 ---
 
