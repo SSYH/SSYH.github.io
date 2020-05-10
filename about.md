@@ -64,7 +64,8 @@ permalink: /about/
 
 ## Other
 
-* **Program For The Future**, 2015, Palo Alto, CA, Conference CoConvener (Frode Hegland, et al)https://www.amazon.com/Leading-Managing-Silicon-Valley-Entrepreneurs/dp/0615283659* [**Community of Impact**](http://CommunityOfImpact.info), CoFounder (with Dino Karabeg, David Price)
+* **Program For The Future**, 2015, Palo Alto, CA, Conference CoConvener (Frode Hegland, et al)https://www.amazon.com/Leading-Managing-Silicon-Valley-Entrepreneurs/dp/0615283659
+* [**Community of Impact**](http://CommunityOfImpact.info), CoFounder (with Dino Karabeg, David Price)
 * **Program For The Future**, 2013, Google, Mountain View, CA, Conference, CoConvener (DKarabeg, et al)
 * **Program For The Future**, 2010, San Jose Tech Museum, Conference CoConvener (MLFung, DHewett)
 * **The Engelbart Hypothesis**, 2009?, V.Landau and E.Clegg - Chapter Contributor
