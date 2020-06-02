@@ -3,7 +3,7 @@ layout: post
 title: Agents, People, and Collaboration
 ---
 
-Just found this note / snippet from 8 years ago; must elaborate... 
+Just found this note / snippet from 8 years ago; must elaborate...
 
 * Agent: effect / create change.
 * People: agents
@@ -15,6 +15,6 @@ Just found this note / snippet from 8 years ago; must elaborate...
 
 20200513 update:
 
-This post reminds me to come up with an object model for
-collaborology. The above items are a barely detectable start. Must do
+This post reminds me to come up with an object model for collaborology.
+The above items are a barely detectable start. Must do
 MUCH elaboration.

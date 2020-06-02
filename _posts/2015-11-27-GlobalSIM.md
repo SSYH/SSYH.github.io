@@ -16,7 +16,7 @@ title: What is GlobalSIM?
 GlobalSIM is a scalable (to global) platform that will allow any
 proactively interested entity to collaborate on a community-cocreated
 knowledge-based executable-knowledge predictive-simulation and
-decision-support modeling framework. 
+decision-support modeling framework.
 
 It will allow any type of collaboration, from contributions of
 
@@ -34,9 +34,8 @@ contributions. Anyone in this collaborative community can take any
 proper subset of the contributions in it, and recompose them, tweaked
 to their own satisfaction, and then use it to create / test their own
 “world model” Iterative refinement of this knowledge / world model so
-that it can be co-evolving as knowledge is gained / contributred.
+that it can be co-evolving as knowledge is gained / contributed.
 
 Inspirations:
 * Mentor (EE Doc Smith, The Lensmen Series)
 * Hari Seldon's psychohistory (Asimov's Foundation)
-
