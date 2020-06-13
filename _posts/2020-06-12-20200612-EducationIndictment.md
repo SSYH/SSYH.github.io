@@ -7,6 +7,8 @@ I can't think of a greater indictment of our "education system" than
 that it produced a population that voted in a sorry excuse of a human
 being to the presidency (putting aside the "election rigging" issue).
 
+![Chief Mocker](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpeopledotcom.files.wordpress.com%2F2017%2F01%2Fdonald-trump-the-worst.jpg&f=1&nofb=1)
+
 We see millions spent on athletic facilities, coaches, marketing,
 etc. And barely thousands spent on recognizing intellectual or
 humanistic contributions. Schools get enormous identity and
