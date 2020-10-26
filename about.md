@@ -73,6 +73,7 @@ permalink: /about/
 
 ## Other
 
+* [Global Challenges Collaboration](https://www.facebook.com/groups/GlobalChallengesCollaboration/) (and [Conversations](https://www.youtube.com/playlist?list=PLYbSlBxcChOKc13gf-Gt_6XdgiuoZkqiK)), Host & Noderator for Barn Raising, Foundation Laying conversation sessions (Saturdays, 2017-present)
 * **Program For The Future**, 2015, Palo Alto, CA, Conference CoConvener (Frode Hegland, et al)
 * [**Community of Impact**](http://CommunityOfImpact.info), CoFounder (with Dino Karabeg, David Price)
 * **Program For The Future**, 2013, Google, Mountain View, CA, Conference, CoConvener (DKarabeg, et al)
