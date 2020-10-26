@@ -99,6 +99,7 @@ permalink: /about/
 |   Personal: | | [S@mHahn.com](mailto:S@mHahn.com) |
 |       Work: | | [SHahn@eGain.com](mailto:SHahn@eGain.com) |
 | GCC / PFTF: | | [Sam@ProgramForTheFuture.com](mailto:Sam@ProgramForTheFuture.com) |
+| Consulting: | | [Sam@RandomActsOfSoftware.com](mailto:Sam@RandomActsOfSoftware.com) |
 |   LinkedIn: | | [Angelpreneur](http://linkedin.com/in/Angelpreneur) |
 |    Twitter: | | [SamHahn](http://twitter.com/SamHahn) |
 
