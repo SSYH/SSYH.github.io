@@ -37,13 +37,22 @@ permalink: /about/
 
 | **Date:** | | **Event:** |
 |:---|---|:---|
-| 2020.04.28 | | [**KM World Webinar**, with Danyelle Myrick, from Georgia Power](https://www.kmworld.com/Webinars/1461-AI-Knowledge-The-Cure-for-CX-and-AX-Woes-Amid-Covid-19.htm) |
+| 2020.09.01 | | [Messaging With Google's Business Messages](https://ebrain.egain.com/kb/ebrain/content/EASY-5483/WEBINAR-Messaging-With-Googles-Business-Messages-1-Sep-2020) |
+| 2020.06.30 | | [Apple Business Chat and eGain](https://ebrain.egain.com/kb/ebrain/content/EASY-5441/WEBINAR-Apple-Business-Chat-and-eGain-30-Jun-2020)  |
+| 2020.04.28 | | [**KM World Webinar: AI Knowledge: The Cure for CX and AX Woes Amid COVID-19**, with Danyelle Myrick, from Georgia Power](https://player.vimeo.com/video/417740312) |
 | 2020.04.23 | | Cisco, Discovery Benefits, eGain Webinar |
-| 2020.04.09 | | [Forrester Webinar: **CoVid-19 and Contact Center Engagement**, with Kate Leggett (VP Forrester)](https://www.egain.com/webinar-sustaining-cx-excellence-in-the-year-of-the-pandemic/) |
-| 2019.05.13 | | DX19 London: [**What a VA Needs: ML, AI, and Knowledge** - Sam Hahn](https://youtu.be/yNoDGq4BiOs), Technology Evangelist, eGain, [(YouTube)](https://youtu.be/yNoDGq4BiOs) [(Vimeo)](https://vimeo.com/336222328) |
+| 2020.04.09 | | [Forrester Webinar: **CoVid-19 and Contact Center Engagement**, with Kate Leggett (VP Forrester)](https://player.vimeo.com/video/407917933)  |
+| 2020.02.05 | | [Why Chatbots Fail and At-Scale Success Stories](https://player.vimeo.com/video/390511386), CRM Magazine Webinar with Bob Fernekees, Kurt VanDynHoven |
+| 2019.11.06 | | [Why Chatbots Fail, with Kyle Peay, Philadelphia Insurance](https://player.vimeo.com/video/371712338) |
+| 2019.05.13 | | DX19 London: [**What a VA Needs: ML, AI, and Knowledge**](https://youtu.be/yNoDGq4BiOs), [(YouTube)](https://youtu.be/yNoDGq4BiOs) [(Vimeo)](https://vimeo.com/336222328) |
+| 2019.02.26 | | [Beyond the Hype: Contact Center AI that Works](https://vimeo.com/331006018/38f3cc883a) |
+| 2019.02.19 | | [Customer Support AI that Works, John Ragsdale, Distinguished VP, Service Technology Research, TSIA](https://vimeo.com/324336398/ca09ca3f9a) |
+| 2018.09.12 | | [Chatbots for Customer Service](https://vimeo.com/314925775/aae2b25842), with Erwin Van Lun, Chatbots.org |
 | 2014.09.xx | | **Knowledge Federation Conference 2014**, Dubrovnik, Croatia |
 | 2012.09.xx | | **Knowledge Federation Conference 2012**, Dubrovnik, Croatia |
-| 1992.03.22 | | **Bootstrapping, Douglas Carl Engelbart**, Skilling Auditorium, Stanford University |
+| 1992.03.22 | | **Bootstrapping, Douglas Carl Engelbart**, Skilling Auditorium, Stanford University - funded NLS reactivation, learned NLS and chorded keyset, OHS, etc. |
+| 1990s?     | | Submitted winning name for business intelligence fork of Postgres ([Bizgres](https://bizgres.org/about/)) |
+| 1986-1988  | | Funded geographic data types and operators for intelligence fusion GIS systems (Michael Stonebraker, ADTIngres, Postgres) |
 | 1983.xx.xx | | **Strategic Automatic Discovery System**, Central Intelligence Agency (Doug Lenat, Colleen Diegnan, Sherry Cable)|
 
 <hr/>
