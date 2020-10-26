@@ -39,7 +39,7 @@ permalink: /about/
 |:---|---|:---|
 | 2020.09.01 | | [Messaging With Google's Business Messages](https://ebrain.egain.com/kb/ebrain/content/EASY-5483/WEBINAR-Messaging-With-Googles-Business-Messages-1-Sep-2020) |
 | 2020.06.30 | | [Apple Business Chat and eGain](https://ebrain.egain.com/kb/ebrain/content/EASY-5441/WEBINAR-Apple-Business-Chat-and-eGain-30-Jun-2020)  |
-| 2020.04.28 | | [**KM World Webinar: AI Knowledge: The Cure for CX and AX Woes Amid COVID-19**, with Danyelle Myrick, from Georgia Power](https://player.vimeo.com/video/417740312) |
+| 2020.04.28 | | [KM World Webinar: AI Knowledge: The Cure for CX and AX Woes Amid COVID-19, with Danyelle Myrick, from Georgia Power](https://player.vimeo.com/video/417740312) |
 | 2020.04.23 | | Cisco, Discovery Benefits, eGain Webinar |
 | 2020.04.09 | | [Forrester Webinar: **CoVid-19 and Contact Center Engagement**, with Kate Leggett (VP Forrester)](https://player.vimeo.com/video/407917933)  |
 | 2020.02.05 | | [Why Chatbots Fail and At-Scale Success Stories](https://player.vimeo.com/video/390511386), CRM Magazine Webinar with Bob Fernekees, Kurt VanDynHoven |
@@ -48,8 +48,8 @@ permalink: /about/
 | 2019.02.26 | | [Beyond the Hype: Contact Center AI that Works](https://vimeo.com/331006018/38f3cc883a) |
 | 2019.02.19 | | [Customer Support AI that Works, John Ragsdale, Distinguished VP, Service Technology Research, TSIA](https://vimeo.com/324336398/ca09ca3f9a) |
 | 2018.09.12 | | [Chatbots for Customer Service](https://vimeo.com/314925775/aae2b25842), with Erwin Van Lun, Chatbots.org |
-| 2014.09.xx | | **Knowledge Federation Conference 2014**, Dubrovnik, Croatia |
-| 2012.09.xx | | **Knowledge Federation Conference 2012**, Dubrovnik, Croatia |
+| 2014.09.xx | | Knowledge Federation Conference 2014, Dubrovnik, Croatia |
+| 2012.09.xx | | Knowledge Federation Conference 2012, Dubrovnik, Croatia |
 | 1992.03.22 | | **Bootstrapping, Douglas Carl Engelbart**, Skilling Auditorium, Stanford University - funded NLS reactivation, learned NLS and chorded keyset, OHS, etc. |
 | 1990s?     | | Submitted winning name for business intelligence fork of Postgres ([Bizgres](https://bizgres.org/about/)) |
 | 1986-1988  | | Funded geographic data types and operators for intelligence fusion GIS systems (Michael Stonebraker, ADTIngres, Postgres) |
@@ -79,15 +79,15 @@ permalink: /about/
 * **Program For The Future**, 2010, San Jose Tech Museum, Conference CoConvener (MLFung, DHewett)
 * **The Engelbart Hypothesis**, 2009?, V.Landau and E.Clegg - Chapter Contributor
 * **Program For The Future**, 2008, San Jose Tech Museum, Conference CoConvener (MLFung, DHewett, RStephenson, JOrr, EClegg, VLandau, RK)
-* **[Leading and Managing in Silicon Valley**](https://www.amazon.com/Leading-Managing-Silicon-Valley-Entrepreneurs/dp/0615283659), CoAuthor and project instigator
+* [**Leading and Managing in Silicon Valley**](https://www.amazon.com/Leading-Managing-Silicon-Valley-Entrepreneurs/dp/0615283659), CoAuthor and project instigator
 * Funding sponsor for ADTIngres (precursor to PostgreSQL, development of R-Tree based geospatial data structures and operators), Ru-Mei Kung, Michael Stonebraker, UC Berkeley
 * *Graduate studies in Artificial Intelligence*, [Stanford University](http://stanford.edu) (1983-1985), sponsors: Doug Lenat, Michael Genesereth, Penni Nii
 * Undergraduate: *BS Mathematics*, [Stanford University](http://stanford.edu) (1976-1980), Advisor: Hans Samelson
 * [*Bootstrap Institute*](http://bootstrap.org), with [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
 * [**ACM**](http://acm.org) Life Member
-* [**TWAIN Working Group**](http://twain.org) (Chairman, 1995-1997)
-* [*Stanford Alumni Association*](http://alumni.stanford.edu), life member
-* [*NextNow Network*](http://www.nextnow.net/)
+* [**TWAIN Working Group**](http://twain.org) - Industry Consortium (Chairman, 1995-1997)
+* [**Stanford Alumni Association**](http://alumni.stanford.edu), life member
+* [**NextNow Network**](http://www.nextnow.net/)
 
 <hr/>
 
