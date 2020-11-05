@@ -65,12 +65,15 @@ permalink: /about/
 ## Other
 
 * **Program For The Future**, 2015, Palo Alto, CA, Conference CoConvener (Frode Hegland, et al)
-* [**Community of Impact**](http://CommunityOfImpact.info), CoFounder (with Dino Karabeg, David Price)
+* **Knowledge Federation Conference**, 2014 October, Dubrovnik
 * **Program For The Future**, 2013, Google, Mountain View, CA, Conference, CoConvener (DKarabeg, et al)
+* [**Community of Impact**](http://CommunityOfImpact.info), CoFounder (with Dino Karabeg, David Price)
+* **Knowledge Federation Conference**, 2012 October, Dubrovnik
 * **Program For The Future**, 2010, San Jose Tech Museum, Conference CoConvener (MLFung, DHewett)
 * **The Engelbart Hypothesis**, 2009?, V.Landau and E.Clegg - Chapter Contributor
-* **Program For The Future**, 2008, San Jose Tech Museum, Conference CoConvener (MLFung, DHewett, RStephenson, JOrr, EClegg, VLandau, RK)
-* **[Leading and Managing in Silicon Valley**](https://www.amazon.com/Leading-Managing-Silicon-Valley-Entrepreneurs/dp/0615283659), CoAuthor and project instigator
+* **Program For The Future**, 2008, San Jose Tech Museum, Conference CoConvener (MLFung, DHewett, RStephenson, JOrr, EClegg, VLandau, RKetner)
+* [**Sam Interviewing Douglas Engelbart**](https://www.youtube.com/watch?v=y6GDLASVUJI), 2008 November, Engineering Leadership SIG of SVForum, Palo Alto
+* [**Leading and Managing in Silicon Valley**](https://www.amazon.com/Leading-Managing-Silicon-Valley-Entrepreneurs/dp/0615283659), CoAuthor and project instigator
 * Funding sponsor for ADTIngres (precursor to PostgreSQL, development of R-Tree based geospatial data structures and operators), Ru-Mei Kung, Michael Stonebraker, UC Berkeley
 * *Graduate studies in Artificial Intelligence*, [Stanford University](http://stanford.edu) (1983-1985), sponsors: Doug Lenat, Michael Genesereth, Penni Nii
 * Undergraduate: *BS Mathematics*, [Stanford University](http://stanford.edu) (1976-1980), Advisor: Hans Samelson
