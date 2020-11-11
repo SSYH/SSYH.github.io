@@ -37,6 +37,7 @@ permalink: /about/
 
 | **Date:** | | **Event:** |
 |:---|---|:---|
+| 2020.11.05 | | [KM World Webinar with Kate Leggett, "From Virtual Idiots to Virtual Wizards - Transforming Chatbots with Next-Gen Knowledge""](https://youtu.be/bIj9KCBc-co) |
 | 2020.09.01 | | [Messaging With Google's Business Messages](https://ebrain.egain.com/kb/ebrain/content/EASY-5483/WEBINAR-Messaging-With-Googles-Business-Messages-1-Sep-2020) |
 | 2020.06.30 | | [Apple Business Chat and eGain](https://ebrain.egain.com/kb/ebrain/content/EASY-5441/WEBINAR-Apple-Business-Chat-and-eGain-30-Jun-2020)  |
 | 2020.04.28 | | [KM World Webinar: AI Knowledge: The Cure for CX and AX Woes Amid COVID-19, with Danyelle Myrick, from Georgia Power](https://player.vimeo.com/video/417740312) |
